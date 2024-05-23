@@ -1,0 +1,26 @@
+{
+    "version":"0.8.0",
+    "data":[
+        {
+            "id":0,
+            "title":"Tutorial",
+            "composer":"Choryu",
+            "bpm":120,
+            "difficult":[1]
+        },
+        {
+            "id":1,
+            "title":"(準備中)",
+            "composer":"Coming soon...",
+            "bpm":120,
+            "difficult":[]
+        },
+        {
+            "id":2,
+            "title":"(準備中)",
+            "composer":"Coming soon...",
+            "bpm":120,
+            "difficult":[]
+        }
+    ]
+}
